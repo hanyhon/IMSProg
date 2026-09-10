@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="it_IT">
+<context>
+    <name>MainWindow</name>
+    <message>
+        <location filename="../mainwindow.ui" line="14"/>
+        <source>IMSProg database updater</source>
+        <translation>Aggiornamento del database di IMSProg</translation>
+    </message>
+    <message>
+        <location filename="../mainwindow.ui" line="32"/>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The &lt;span style=&quot; font-style:italic;&quot;&gt;&apos;IMSProg.Dat&apos;&lt;/span&gt; file will be replaced&lt;/p&gt;&lt;p&gt;with the new version. &lt;/p&gt;&lt;p&gt;You may lose the changes made to it.&lt;/p&gt;&lt;p&gt; Continue?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Il file &lt;span style=&quot; font-style:italic;&quot;&gt;&apos;IMSProg.Dat&apos;&lt;/span&gt; verrà sostituito&lt;/p&gt;&lt;p&gt;con la nuova versione. &lt;/p&gt;&lt;p&gt;Le modifiche apportate potrebbero andare perse.&lt;/p&gt;&lt;p&gt; Continuare?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <location filename="../mainwindow.ui" line="70"/>
+        <location filename="../mainwindow.cpp" line="194"/>
+        <source>Ok</source>
+        <translation>Ok</translation>
+    </message>
+    <message>
+        <location filename="../mainwindow.ui" line="77"/>
+        <source>Exit</source>
+        <translation>Esci</translation>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="84"/>
+        <source>Downloading file IMSProg.Dat</source>
+        <translation>Scaricamento del file IMSProg.Dat</translation>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="90"/>
+        <source>Invalid URL</source>
+        <translation>URL non valido</translation>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="99"/>
+        <source>Cannot create temporary file for download</source>
+        <translation>Impossibile creare il file temporaneo per il download</translation>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="192"/>
+        <source>The database has been updated!
+
+The old database contained %1 chips,
+The new database contains %2 chips.</source>
+        <translation>Il database è stato aggiornato!
+
+Il vecchio database contiene %1 chip,
+Il nuovo database contiene %2 chip.</translation>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="196"/>
+        <source>Failed to replace the database file</source>
+        <translation>Impossibile sostituire il file di database</translation>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="199"/>
+        <source>Downloaded file is too small (corrupted?)</source>
+        <translation>
+Il file scaricato è troppo piccolo (danneggiato?)</translation>
+    </message>
+    <message>
+        <source>Download failed: </source>
+        <translation type="vanished">Download non riuscito: </translation>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="226"/>
+        <source>Error loading file: </source>
+        <translation>Errore durante il caricamento del file: </translation>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="232"/>
+        <source>Error:</source>
+        <translation>Errore:</translation>
+    </message>
+</context>
+</TS>
